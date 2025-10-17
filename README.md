@@ -3,7 +3,7 @@ Business Intelligence and Process Management
 
 This report contains important information about our classes in WiSe2025
 
-# Introducing myself : Itzel Hernandez
+# Introducing myself : Itzel Hernández
 
 ## Where am I from?
 
