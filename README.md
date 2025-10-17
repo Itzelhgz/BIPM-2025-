@@ -11,7 +11,7 @@ I was born and raised in Mexico. 🇲🇽
 Fun fact: My name has Maya origins and means “star of the evening,” a meaning I really like.
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b34b8db9-8359-4b0b-8f2b-fb9b7c3a713a" height="150">
+  <img src="https://github.com/user-attachments/assets/b34b8db9-8359-4b0b-8f2b-fb9b7c3a713a" height="200">
 </p>
 
 ## My hobbies and interests ✨
@@ -29,8 +29,8 @@ Fun fact: My name has Maya origins and means “star of the evening,” a meanin
 
 ## My road 👣
 - **1997 to 2015:** Primary, secondary and high school in Mexico State.
-- **2015 to 2020:** University studies in Puebla (B. International Business) and a semester abroad in Brandenburg Germany in 2018.
-- **2020 to 2025:** Worked in the automotive industry as a Finance Controller: Forvia - Automotive Supplier, Audi - manufacturer.
+- **2015 to 2020:** University studies in Puebla (B. International Business) and a semester abroad in Brandenburg, Germany in 2018.
+- **2020 to 2025:** Worked in the automotive industry as a Finance Controller: Forvia - Automotive Supplier, Audi - Manufacturer.
 - **2025 - present:** New challenge! Master Studies at HWR (M. Sc. Business Intelligence and Process Management)
 
 <iframe 
