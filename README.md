@@ -32,6 +32,7 @@ Fun fact: My name has Maya origins and means “star of the evening,” a meanin
 - **2015 to 2020:** University studies in Puebla (B. International Business) and a semester abroad in Brandenburg, Germany in 2018.
 - **2020 to 2025:** Worked in the automotive industry as a Finance Controller: Forvia - Automotive Supplier, Audi - Manufacturer.
 - **2025 - present:** New challenge! 🤯 Master Studies at HWR (M. Sc. Business Intelligence and Process Management)
+- **2025:** Working Student at Iberdrola, Deutschland 🔌🟢 
 
 <iframe 
   src="https://itzelhgz.github.io/BIPM-2025-/academic_journey_map.html" 
